@@ -1,0 +1,28 @@
+body{
+  background: antiquewhite;
+}
+
+.all-data-page {
+  margin: 20px;
+}
+
+.all-data-page h1 {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+.all-data-page ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.all-data-page li {
+  margin-bottom: 15px;
+}
+
+.all-data-page li span {
+  display: block;
+  margin-top: 5px;
+  margin-left: 15px;
+  font-size: 14px;
+}
